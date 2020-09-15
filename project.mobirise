@@ -59,7 +59,7 @@
     "uniqCompNum": 3,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/mcrc-logo-128x128.png",
     "noImageResize": ""
   },
   "pages": {
